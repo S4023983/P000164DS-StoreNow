@@ -1,0 +1,6 @@
+_background_
+chimney
+roof
+roof line
+vents
+window
