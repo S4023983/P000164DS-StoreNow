@@ -3,3 +3,4 @@ torchvision
 segmentation-models-pytorch
 matplotlib
 pillow
+albumentations
