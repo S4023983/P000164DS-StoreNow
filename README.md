@@ -107,7 +107,22 @@ requirements.txt
 
 1. Full list of required Python packages.
 
-🛠️ Installation
+🛠️ Installation 
+
+# Initialize git (if not already done)
+git init
+
+# Add your new remote repo
+git remote add origin https://github.com/your-username/your-repo-name.git
+
+# Stage all files
+git add .
+
+# Commit your changes
+git commit -m "Initial commit for rooftop analysis project"
+
+# Push to GitHub
+git push -u origin main
 
 1. Clone the Repository
 
