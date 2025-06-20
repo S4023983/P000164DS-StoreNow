@@ -12,7 +12,7 @@ import requests
 from efficientnet_pytorch import EfficientNet
 
 # Google API key (you need billing enabled for full access)
-GOOGLE_API_KEY = "AIzaSyDs6lG7Jxpz54iUAPLIWLBkdUSt-UtdV5o"
+GOOGLE_API_KEY = "YOUR GOOGLE API KEY"
 
 
 # File paths for model and label mapping
