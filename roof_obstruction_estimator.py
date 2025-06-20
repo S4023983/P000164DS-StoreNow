@@ -36,7 +36,7 @@ MODEL_PATH = os.path.join(ROOT_DIR, "best_roof_model.pth") # Trained DeepLabV3+ 
 SAM_CHECKPOINT = os.path.join(ROOT_DIR, "sam_vit_b_01ec64.pth") # SAM model weights
 
 # Google Maps API configuration (static map API used and google solar api used)
-GOOGLE_API_KEY = "AIzaSyDs6lG7Jxpz54iUAPLIWLBkdUSt-UtdV5o"  # Replace with your actual API key
+GOOGLE_API_KEY = "YOUR GOOGLE API KEY"  # Replace with your actual API key
 
 # Parameters for image fetching and processing
 ZOOM = 20  
