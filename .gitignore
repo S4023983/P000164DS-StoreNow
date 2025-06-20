@@ -26,4 +26,4 @@ saved_models/
 *.pth
 
 #  I have excluded the saved_models folder and .pth files from being tracked by git.
-# You can add any other files or folders you want to 
+# You can add any other files or folders you want to myenv/
