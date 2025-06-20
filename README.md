@@ -196,14 +196,14 @@ Run Full Pipeline (Outside Streamlit for testing): python roof_obstruction_estim
 
 1. Roof Type Classification (EfficientNet-B3)
 
-Script: roof_type_classification_engine.py (Command)
+Script: python roof_type_classification_engine.py (Command)
 
 Dataset: roof_type_labels.csv + classification images
 5-fold cross-validation with data augmentation
 
 2. Rooftop Segmentation (DeepLabV3+)
 
-Script: model_type_segmentation_engine.py (Command)
+Script: python model_type_segmentation_engine.py (Command)
 
 Dataset: roof_masks.zip (image + binary mask)
 Heavy augmentation using Albumentations
